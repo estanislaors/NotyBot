@@ -1,0 +1,19 @@
+flags: {}
+extra-package-dbs: []
+packages:
+- .
+allow-newer: true
+extra-deps:
+- linklater-4.0.0.2
+#- base-4.9.0.0
+- api-builder-0.12.0.0
+- tightrope-0.1.0.1
+- wai-extra-3.0.19.1
+- wai-logger-2.3.0
+- http-client-0.5.7.0
+- wreq-0.5.0.1
+- http-client-tls-0.3.5.1
+- authenticate-oauth-1.6
+- mtl-2.2.2
+- bson-0.3.2.3
+resolver: lts-8.12
